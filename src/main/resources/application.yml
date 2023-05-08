@@ -1,0 +1,8 @@
+server:
+  port: 9999
+spring:
+  application:
+    name: COMMANDE-SERVICE
+logging:
+   file:
+    name: C:/Users/NANA NDANTANG/Desktop/logs/microservice.log
